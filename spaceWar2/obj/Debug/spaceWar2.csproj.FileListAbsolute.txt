@@ -1,0 +1,15 @@
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\bin\Debug\spaceWar2.exe.config
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\bin\Debug\spaceWar2.exe
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\bin\Debug\spaceWar2.pdb
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\obj\Debug\spaceWar2.csprojAssemblyReference.cache
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\obj\Debug\spaceWar2.csproj.CoreCompileInputs.cache
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\obj\Debug\spaceWar2.exe
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\obj\Debug\spaceWar2.pdb
+C:\Users\petrs\Downloads\spaceWar2\spaceWar2\bin\Debug\spaceWar2.exe.config
+C:\Users\petrs\Downloads\spaceWar2\spaceWar2\bin\Debug\spaceWar2.exe
+C:\Users\petrs\Downloads\spaceWar2\spaceWar2\bin\Debug\spaceWar2.pdb
+C:\Users\petrs\Downloads\spaceWar2\spaceWar2\obj\Debug\spaceWar2.csproj.AssemblyReference.cache
+C:\Users\petrs\Downloads\spaceWar2\spaceWar2\obj\Debug\spaceWar2.csproj.SuggestedBindingRedirects.cache
+C:\Users\petrs\Downloads\spaceWar2\spaceWar2\obj\Debug\spaceWar2.csproj.CoreCompileInputs.cache
+C:\Users\petrs\Downloads\spaceWar2\spaceWar2\obj\Debug\spaceWar2.exe
+C:\Users\petrs\Downloads\spaceWar2\spaceWar2\obj\Debug\spaceWar2.pdb

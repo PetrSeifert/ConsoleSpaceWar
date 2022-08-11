@@ -1,0 +1,6 @@
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\bin\Release\spaceWar2.exe.config
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\bin\Release\spaceWar2.exe
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\bin\Release\spaceWar2.pdb
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\obj\Release\spaceWar2.csproj.CoreCompileInputs.cache
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\obj\Release\spaceWar2.exe
+C:\Users\JanaC\source\repos\spaceWar2\spaceWar2\obj\Release\spaceWar2.pdb
